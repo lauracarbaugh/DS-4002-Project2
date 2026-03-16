@@ -29,7 +29,10 @@ To reproduce the results, first clone this repository and ensure that the folder
 ...
 
 ## References
-[1] J. Brownlee, “ARIMA for Time Series Forecasting with Python,” Machine Learning Mastery, 2020.
-[2] MacroTrends, “Amazon Historical Stock Price Data,” 2026.
-[3] S. Hochreiter and J. Schmidhuber, “Long Short-Term Memory,” Neural Computation, vol. 9, no. 8, pp. 1735–1780, 1997.
+[1] J. Brownlee, “ARIMA for Time Series Forecasting with Python,” Machine Learning Mastery, 2020.  
+
+[2] MacroTrends, “Amazon Historical Stock Price Data,” 2026.  
+
+[3] S. Hochreiter and J. Schmidhuber, “Long Short-Term Memory,” Neural Computation, vol. 9, no. 8, pp. 1735–1780, 1997.  
+
 [4] G. E. P. Box, G. M. Jenkins, G. C. Reinsel, and G. M. Ljung, Time Series Analysis: Forecasting and Control, 5th ed. Hoboken, NJ: Wiley, 2015.
